@@ -14,4 +14,7 @@
 
 - Foi possível fixar melhor os conteúdos de HTML e CSS;
 - Apliquei boas práticas de Atomic Design e BEM, onde deixei os nomes das classes em padrão e, deixei cada pedaço do projeto organizado e separado para melhror manutenção.
-- Pratiquei animações.
+- Pude praticar animações, tanto quando o usuário acessa o website, quanto quando passa o mouse por cima dos botôes e da foto de perfil.
+
+#
+## Não Responsivo! // Not Responsive!
