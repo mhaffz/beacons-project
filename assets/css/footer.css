@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer__paragraph {
+    color: aliceblue;
+}
+
+.footer__paragraph b {
+    color: #EFF6EE;
+}

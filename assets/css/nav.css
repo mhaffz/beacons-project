@@ -1,0 +1,45 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nav__list li{
+    text-align: center;
+}
+
+.nav__link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav__item {
+    padding: 1rem 13rem;
+    list-style: none;
+    border: 0.15rem solid #fff;
+    border-radius: 1rem;
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items:center;
+    position: relative;
+}
+
+.nav__item:hover {
+    -webkit-animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+	        animation: shake-horizontal 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+
+            background-color: rgba(128, 156, 189, 0.15);
+}
+
+.nav__item img {
+    position: absolute;
+    left: 0;
+    margin-left: 0.5rem;
+}
+
+.nav__paragraph {
+    color: #fff;
+    font-weight: bold;
+}
