@@ -1,10 +1,10 @@
 body {
     font-family: Roboto, sans-serif;
-    background: rgb(22,69,121);
-    background: -moz-radial-gradient(circle, rgba(22,69,121,1) 0%, rgba(128,156,189,1) 100%);
-    background: -webkit-radial-gradient(circle, rgba(22,69,121,1) 0%, rgba(128,156,189,1) 100%);
-    background: radial-gradient(circle, rgba(22,69,121,1) 0%, rgba(128,156,189,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#164579",endColorstr="#809cbd",GradientType=1);
+	background: rgb(32,90,156);
+	background: -moz-radial-gradient(circle, rgba(32,90,156,1) 0%, rgba(0,8,78,1) 100%);
+	background: -webkit-radial-gradient(circle, rgba(32,90,156,1) 0%, rgba(0,8,78,1) 100%);
+	background: radial-gradient(circle, rgba(32,90,156,1) 0%, rgba(0,8,78,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#205a9c",endColorstr="#00084e",GradientType=1);
 
 	-webkit-animation: slide-in-bck-center 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 	        animation: slide-in-bck-center 0.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
